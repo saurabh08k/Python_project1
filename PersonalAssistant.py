@@ -1,3 +1,7 @@
+# This is apython program of my persoanl assistant Jarvis.
+# We can carry out some tasks using speech recognition in python.
+
+
 import datetime
 import random
 import speech_recognition as sr   # pip install speechRecognition

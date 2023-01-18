@@ -1,4 +1,4 @@
-# This is apython program of my persoanl assistant Jarvis.
+# This is apython program of my persoanl assistant Neon.
 # We can carry out some tasks using speech recognition in python.
 
 
@@ -32,7 +32,7 @@ def wishMe():
         speak("Good Afternoon Saurabh")
     else:
         speak("Good Evening Saurabh")
-    speak("I am Jarvis how may I help you.")
+    speak("I am Neon how may I help you.")
 
 
 def takeCommand():
